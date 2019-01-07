@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\bin\Debug\Chatterbox300.exe
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\bin\Debug\Chatterbox300.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\bin\Debug\Chatterbox300.xml
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.exe
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.xml
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox300\Chatterbox300\obj\Debug\Chatterbox300.AboutFrm.resources
